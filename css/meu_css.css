@@ -1,0 +1,36 @@
+body{
+	background-color: #ffffff;
+	color: #000000;
+	text-align: center;
+}
+
+.img1{
+	border: 3px solid;
+	width: 40%;
+	text-align: center;
+	float: left;
+}
+
+.img2{
+	border: 3px solid;
+	width: 40%;
+	text-align: center;
+	float: right;
+}
+
+.txt1{
+	border: 3px solid;
+	text-align: center;
+	width: 80%;
+	margin: 0px auto 0px auto;
+}
+
+img{
+	 height: 50px;
+	 width: 50px;
+}
+
+p{
+	clear:both;
+	text-align: center;
+}
